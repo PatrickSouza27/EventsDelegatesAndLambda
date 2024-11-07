@@ -1,0 +1,14 @@
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\EventsDelegatesAndLambda\DelegatesMatematica\bin\Debug\net8.0\DelegatesMatematica.exe
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\EventsDelegatesAndLambda\DelegatesMatematica\bin\Debug\net8.0\DelegatesMatematica.deps.json
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\EventsDelegatesAndLambda\DelegatesMatematica\bin\Debug\net8.0\DelegatesMatematica.runtimeconfig.json
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\EventsDelegatesAndLambda\DelegatesMatematica\bin\Debug\net8.0\DelegatesMatematica.dll
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\EventsDelegatesAndLambda\DelegatesMatematica\bin\Debug\net8.0\DelegatesMatematica.pdb
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\EventsDelegatesAndLambda\DelegatesMatematica\obj\Debug\net8.0\DelegatesMatematica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\EventsDelegatesAndLambda\DelegatesMatematica\obj\Debug\net8.0\DelegatesMatematica.AssemblyInfoInputs.cache
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\EventsDelegatesAndLambda\DelegatesMatematica\obj\Debug\net8.0\DelegatesMatematica.AssemblyInfo.cs
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\EventsDelegatesAndLambda\DelegatesMatematica\obj\Debug\net8.0\DelegatesMatematica.csproj.CoreCompileInputs.cache
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\EventsDelegatesAndLambda\DelegatesMatematica\obj\Debug\net8.0\DelegatesMatematica.dll
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\EventsDelegatesAndLambda\DelegatesMatematica\obj\Debug\net8.0\refint\DelegatesMatematica.dll
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\EventsDelegatesAndLambda\DelegatesMatematica\obj\Debug\net8.0\DelegatesMatematica.pdb
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\EventsDelegatesAndLambda\DelegatesMatematica\obj\Debug\net8.0\DelegatesMatematica.genruntimeconfig.cache
+C:\Users\PatrickSouza\Desktop\Courses\Youtube\EventsDelegatesAndLambda\DelegatesMatematica\obj\Debug\net8.0\ref\DelegatesMatematica.dll
